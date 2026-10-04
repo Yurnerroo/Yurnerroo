@@ -34,6 +34,6 @@ Day to day that means Python, FastAPI, data pipelines, and making legacy systems
 On the side, I build tools that kill boring work:
 
 * **[InkForge](https://github.com/Yurnerroo/InkForge)**: turns raw text and photos into a print-ready weekly newspaper by driving Adobe InDesign. 📰
-* **Hardcore Ninja**: a Dota 2 custom game I started. It grew to a team of 10 developers and 500K+ Steam Workshop subscribers. 🥷
+* **[Hardcore Ninja](https://steamcommunity.com/sharedfiles/filedetails/?id=368833491)**: a Dota 2 custom game I started. It grew to a team of 10 developers and 500K+ Steam Workshop subscribers. 🥷
 
 I'm open to remote roles on EU or US hours, and to relocation. ⚡️
